@@ -1,0 +1,18 @@
+export const TV_SHOWS = [
+  require("../assets/series/n1.jpg"),
+  require("../assets/series/n2.jpg"),
+  require("../assets/series/n3.jpg"),
+  require("../assets/series/n4.jpg"),
+  require("../assets/series/n5.jpg"),
+  require("../assets/series/n6.jpg"),
+  require("../assets/series/n7.jpg"),
+  require("../assets/series/n8.jpg"),
+  require("../assets/series/n9.jpg"),
+  require("../assets/series/n10.jpg"),
+  require("../assets/series/n11.jpg"),
+  require("../assets/series/n12.jpg"),
+  require("../assets/series/n13.jpg"),
+  require("../assets/series/n14.jpg"),
+  require("../assets/series/n15.jpg"),
+  require("../assets/series/n16.jpg"),
+];
